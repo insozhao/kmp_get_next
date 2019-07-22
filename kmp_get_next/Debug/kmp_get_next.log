@@ -1,0 +1,15 @@
+﻿生成启动时间为 2019/7/22 9:17:17。
+     1>项目“F:\Project\kmp_get_next\kmp_get_next\kmp_get_next.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\kmp_get_next.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt kmp_get_next.cpp
+         kmp_get_next.cpp
+     1>f:\project\kmp_get_next\kmp_get_next\kmp_get_next.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Project\kmp_get_next\Debug\kmp_get_next.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Project\kmp_get_next\Debug\kmp_get_next.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Project\kmp_get_next\Debug\kmp_get_next.lib" /MACHINE:X86 Debug\kmp_get_next.obj
+         Debug\stdafx.obj
+         kmp_get_next.vcxproj -> F:\Project\kmp_get_next\Debug\kmp_get_next.exe
+     1>已完成生成项目“F:\Project\kmp_get_next\kmp_get_next\kmp_get_next.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.20
